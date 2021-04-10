@@ -1,0 +1,35 @@
+body{
+    background-image: url("bg.jpg");
+    background-size:cover;
+    position:center;
+}
+canvas{
+    border-color: aliceblue;
+    border-width: 5;
+    border-style: solid;
+    margin-top: 150px;
+}
+#heading{
+    width:100%;
+color:bisque;
+position:fixed;
+top:0;
+left:0;
+margin:0;
+font-size:40px;
+}
+#start{
+    font-size: 20px;
+}
+#heading2{
+    width:100%;
+    color:bisque;
+    position:fixed;
+    font-size:20px; 
+    left:0;
+    margin-top: 35px;
+    color:black;
+}
+#objectname{
+    margin-top:70px;
+}
